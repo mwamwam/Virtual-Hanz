@@ -15,7 +15,7 @@ This project was created to simulate meaningful, gentle conversations in a simpl
 
 ## ✨ Features
 
-- Replies in a warm and caring tone, based on how I naturally speak
+- Replies in a warm and caring tone
 - Tailored to respond to a specific person using her nickname ("Langga")
 - Built for long-distance comfort and closeness through soft and natural messages
 - Powered by Cohere AI for intelligent response generation
