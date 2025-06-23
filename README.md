@@ -1,6 +1,6 @@
 # Virtual-Hanz
 
-💌 [Live View](https://mwamwam.github.io/Virtual-Hanz/)
+💌 [Live View CLICK HERE](https://mwamwam.github.io/Virtual-Hanz/)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
