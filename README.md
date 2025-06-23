@@ -21,7 +21,7 @@ This project was created to simulate meaningful, gentle conversations in a simpl
 
 - **Backend:** Node.js, Express, Cohere API
 - **Frontend:** HTML, JavaScript (served from `/public`)
-- **Hosting:** Deployed via [Render](https://render.com/)
+- **Hosting:** Deployed via [Render]
 
 ---
 
