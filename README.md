@@ -1,5 +1,7 @@
 # Virtual-Hanz
 
+🔗 [Live View](https://your-username.github.io/your-repo-name/)
+
 A personal AI chatbot project I designed to talk naturally and affectionately — just like I would — for someone very special to me.
 
 This project was created to simulate meaningful, gentle conversations in a simple web-based chat. Every response is carefully crafted to reflect how I speak, think, and connect — not as a generic bot, but as someone who knows and loves the person on the other end.
