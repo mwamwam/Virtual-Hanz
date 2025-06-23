@@ -43,7 +43,7 @@ This project was created to simulate meaningful, gentle conversations in a simpl
 
 This was made for someone special someone who means more than words can say.
 It’s a quiet way to stay close, to be present in small ways, even from far away.
-What started as a simple project became something personal — filled with care, memories, and love.
+What started as a simple project became something personal filled with care, memories, and love.
 
 Not just a chatbot. A piece of heart, made for her.
 
