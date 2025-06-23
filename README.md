@@ -5,12 +5,12 @@
 
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A personal AI chatbot project I designed to talk naturally and affectionately — just like I would — for someone very special to me.
 
 This project was created to simulate meaningful, gentle conversations in a simple web-based chat. Every response is carefully crafted to reflect how I speak, think, and connect — not as a generic bot, but as someone who knows and loves the person on the other end.
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ---
 
 ## ✨ Features
