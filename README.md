@@ -1,6 +1,6 @@
 # Virtual-Hanz
 
-🔗 [Live View](https://your-username.github.io/your-repo-name/)
+💌 [Live View](https://your-username.github.io/your-repo-name/)
 
 A personal AI chatbot project I designed to talk naturally and affectionately — just like I would — for someone very special to me.
 
