@@ -41,10 +41,10 @@ This project was created to simulate meaningful, gentle conversations in a simpl
 
 ## 🩷 Why I Made This
 
-I created this for you, Cyy.
-It may be a simple project, but it carries a part of me a way to stay close even when we’re far apart.
-So you can always feel that I’m here, talking to you, thinking of you, loving you.
+This was made for someone special — someone who means more than words can say.
+It’s a quiet way to stay close, to be present in small ways, even from far away.
+What started as a simple project became something personal — filled with care, memories, and love.
 
-This isn’t just code. It’s my heart in a quiet little corner of the internet.
+Not just a chatbot. A piece of heart, made for her.
 
 — Hanz
