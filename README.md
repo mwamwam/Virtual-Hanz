@@ -39,9 +39,12 @@ This project was created to simulate meaningful, gentle conversations in a simpl
 
 ---
 
-## 🧠 Why I Made This
+## 🩷 Why I Made This
 
-I wanted to create something simple but personal a way to stay close, speak softly, and be present even when I’m not physically around.  
-This chatbot isn’t just an experiment. It’s a small project with a big piece of heart.
+I created this for you, Cyy.
+It may be a simple project, but it carries a part of me a way to stay close even when we’re far apart.
+So you can always feel that I’m here, talking to you, thinking of you, loving you.
 
-— *Hanz*
+This isn’t just code. It’s my heart in a quiet little corner of the internet.
+
+— Hanz
